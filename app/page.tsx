@@ -5,7 +5,7 @@ export default function Page() {
       <h1 className="mb-10 text-cyan-600 text-3xl font-bold">
         春休みゼミ「Webフロントエンド」へようこそ！
       </h1>
-
+      
       <p>
         Webページが表示されるまでの流れや、フロントエンドの役割について解説します。
         担当者と一緒に、フロントエンドのシステムの実装練習を行います。
